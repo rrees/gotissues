@@ -1,0 +1,3 @@
+h1. Got Issues?
+
+An experiment in writing a system for publishing magazines using Rails.
